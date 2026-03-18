@@ -1,0 +1,11 @@
+vimyt
+
+~/.config/vimyt/
+
+.claude/
+.codex/
+.opencode/
+openspec/
+
+.DS_Store
+Thumbs.db
