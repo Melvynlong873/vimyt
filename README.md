@@ -107,10 +107,12 @@ Press `S` to open settings:
 
 ## Data Storage
 
-Everything is stored locally on disk in `~/.config/vimyt/`:
+Everything is stored locally on disk. Location depends on your OS:
+
+- **macOS**: `~/Library/Application Support/vimyt/`
+- **Linux**: `~/.config/vimyt/`
 
 ```
-~/.config/vimyt/
   session.json        # Session state (cursors, settings, playback position)
   queue.json          # Persisted queue
   play_history.json   # Last 500 played tracks
