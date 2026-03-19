@@ -21,6 +21,18 @@ https://github.com/user-attachments/assets/7719af94-4268-44dc-8ae1-32e5420bd23c
 
 ## Installation
 
+Make sure `$GOPATH/bin` is in your `PATH`:
+
+```bash
+# bash/zsh
+export PATH="$HOME/go/bin:$PATH"
+
+# fish
+fish_add_path ~/go/bin
+```
+
+Then run:
+
 ```bash
 go install github.com/Sadoaz/vimyt@latest
 ```
